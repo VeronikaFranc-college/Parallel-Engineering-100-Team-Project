@@ -1,4 +1,4 @@
-﻿Thank you for downloading the Parallel beta!
+﻿Thank you for downloading the Parallel!
 
 This game is brought to you by Perpindicular:
 	Joseph Franc, Niket Parikh, Derek Lau, and Kevin Lim
@@ -12,4 +12,6 @@ INSTRUCTIONS:
 3.  Navigate the main menu with the arrow keys.
 4.  Press enter to select.
 
-Many options on the main menu are unavailable in beta!
+MISSING:
+
+Some main menu options have not been added, but I can add them if anyone shows interest!
