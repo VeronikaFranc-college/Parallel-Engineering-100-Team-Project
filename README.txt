@@ -1,4 +1,4 @@
-﻿Thank you for downloading the Parallel!
+﻿Thank you for downloading Parallel!
 
 This game is brought to you by Perpindicular:
 	Joseph Franc, Niket Parikh, Derek Lau, and Kevin Lim
