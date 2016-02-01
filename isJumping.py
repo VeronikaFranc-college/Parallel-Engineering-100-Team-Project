@@ -1,0 +1,1 @@
+class isJumping(self)
